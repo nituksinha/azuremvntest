@@ -17,7 +17,7 @@
                 <snapshotRepository>
                         <id>OGSsnapshots</id>
                         <name>Snapshots</name>
-                        <url>http://ilcepoc0723.corp.amdocs.com:8081/repository/OGS-snapshot/</url>
+                        <url>http://ilcepoc0723.corp.cmd.com:8081/repository/OGS-snapshot/</url>
                 </snapshotRepository>
 </distributionManagement>
 
